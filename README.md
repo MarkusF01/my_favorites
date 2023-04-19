@@ -1,7 +1,7 @@
 ## top 5 java methods
 
-#String.split()\n
-#Integer.parseInt()
-#String.trim()
-#String.valueOf()
-#Arrays.asList()
+1. String.split()
+2. Integer.parseInt()
+3. String.trim()
+4. String.valueOf()
+5. Arrays.asList()
