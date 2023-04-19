@@ -1,6 +1,6 @@
 ## top 5 java methods
 
-#String.split()
+#String.split()\n
 #Integer.parseInt()
 #String.trim()
 #String.valueOf()
