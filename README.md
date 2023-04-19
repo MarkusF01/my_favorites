@@ -2,6 +2,6 @@
 
 1. String.substring()
 2. Integer.parseInt()
-3. String.trim()
+3. replace(" ", "");
 4. String.valueOf()
 5. Arrays.asList()
